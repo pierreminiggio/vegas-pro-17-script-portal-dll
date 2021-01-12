@@ -1,0 +1,16 @@
+{
+    "name": "pierreminiggio/vegas-pro-17-script-portal-dll",
+    "description": "Simply brings the dll to your project",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Pierre MINIGGIO",
+            "email": "pierre@miniggiodev.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {},
+    "require-dev": {},
+    "scripts": {}
+}
