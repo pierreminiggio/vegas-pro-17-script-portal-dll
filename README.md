@@ -4,3 +4,7 @@ Install using composer :
 ```
 composer require pierreminiggio/vegas-pro-17-script-portal-dll
 ```
+
+```
+npm install pierreminiggio/facebook-group-scraper
+```
